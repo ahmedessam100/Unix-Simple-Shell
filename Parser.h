@@ -7,7 +7,6 @@
 
 /*
 !Comment:
-Description: this Function Sets the DIO Pin Direction
         Input: 1) Terminal command array of string
         Output: Array of strings of Command and it's arguments
 */
