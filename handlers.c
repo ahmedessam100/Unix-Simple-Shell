@@ -11,7 +11,6 @@ static int first=0;
 
 /*
 !Comment:
-Description: this Function Sets the DIO Pin Direction
         Input: Nothing
         Output: Write history of child in child.log
 */
